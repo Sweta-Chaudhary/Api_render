@@ -1,6 +1,6 @@
 tensorflow
 fastapi
-gunicorn
+uvicorn
 python-multipart
 pillow
 tensorflow-serving-api==2.11.1
